@@ -1,0 +1,82 @@
+.tp{
+	width: 100%;
+	height: 9.09rem;
+}
+.t1{
+	width: 100%;
+	height: 100%;
+
+}
+.tp2{
+	width: 100%;
+	height: .65rem;
+}
+.t2{
+	width: 100%;
+	height: 100%;
+}
+.wenzi_1_1{
+	font-size: 0.01rem;
+	color: #9A9690;
+	text-align: center;
+}	
+.x{
+	width: .13rem;
+	height: .13rem;
+	margin: .19rem auto;
+	
+}
+.wenzi_1_2{
+	font-size: 0.35rem;
+	color: #7F7C76;
+	text-align: center;
+	letter-spacing: 2px;
+	margin-bottom: .25rem;
+}
+.wenzi_1_3{
+	font-size: 0.25rem;
+	color: #DCDAFE;
+	text-align: center;
+	letter-spacing:  6px;
+}
+.wenzi_1{
+	width: 100%;
+	height: .3rem;
+	padding-bottom: .24rem;
+
+}
+.di{
+	width: 100%;
+	height: 1.68rem;
+	background-color: #7C7CFE;
+}
+.di1{
+	width: 100%;
+	height: 1.68rem;
+	background-color: #2DC83C;
+}
+.di2{
+	width: 100%;
+	height: 1.68rem;
+	background-color: #1FC9BF;
+}
+
+
+.wenzi_1{
+	width: 100%;
+	height: .3rem;
+	padding-bottom: .24rem;
+}
+.wenzi_2{
+	width: 100%;
+	height: .56rem;
+	margin-top: .25rem;
+
+}
+.di_box{
+	padding-top: .6rem;
+
+}
+.di_box a{
+	color: #fff;
+}
